@@ -1,0 +1,12 @@
+version: "3"
+
+app:
+  host: localhost
+  post: 999
+
+postgresql:
+  host: localhost
+  port: 5432
+  username: admin
+  password: admin
+  database: postgres
